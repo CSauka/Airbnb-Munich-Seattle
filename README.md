@@ -33,7 +33,7 @@ There is one notebook available which includes the analysis I have performed.  T
 
 ## Results<a name="results"></a>
 
-My main findings are available in a [blog post]() on Medium.
+My main findings are available in a [blog post](https://medium.com/@christian_sauka/airbnb-the-oktoberfest-and-other-very-unfunny-relationships-b3bcaaa2a75e) on Medium.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
