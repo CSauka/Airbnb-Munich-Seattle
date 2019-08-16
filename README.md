@@ -27,9 +27,11 @@ For this project, I was interested in using Airbnb data from July 2019 on Airbnb
 
 5. Do customers evaluate the review categories independently or are the review scores highly correlated? Is there a systematic difference in customer ratings in different parts of the world (Munich vs. Seattle)?
 
-## File Description <a name="files"></a>
+## File Descriptions <a name="files"></a>
 
 There is one notebook available which includes the analysis I have performed.  The notebook also contains a function which can be used to clean, impute and engineer Airbnb data.
+
+In addition, the repository contains the datasets used in this analysis.
 
 ## Results<a name="results"></a>
 
