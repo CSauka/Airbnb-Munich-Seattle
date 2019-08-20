@@ -35,7 +35,7 @@ In addition, the repository contains the datasets used in this analysis.
 
 ## Results<a name="results"></a>
 
-My main findings are available in a [blog post](https://medium.com/@christian_sauka/airbnb-the-oktoberfest-and-other-very-unfunny-relationships-b3bcaaa2a75e) on Medium.
+My main findings are available in a [blog post](https://medium.com/@christian_sauka/airbnb-the-oktoberfest-and-other-very-unfunny-associations-b3bcaaa2a75e) on Medium.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
